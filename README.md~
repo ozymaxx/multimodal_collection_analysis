@@ -1,0 +1,8 @@
+# Analysis of data collected from multimodal data collection studies
+This repository contains source codes for analyzing spoken language and sketched symbols collected in multimodal data collection studies.
+
+## Directory structure
+There are two main folders here:
+
+* **sketched_symbols**: This folder includes a Python script for analyzing sketched symbols. Note that you need to install [LibSVM](https://www.csie.ntu.edu.tw/~cjlin/libsvm/), [IDM feature extractor](https://github.com/ozymaxx/sketchfe), [NumPy](http://www.numpy.org/), [SciPy](https://scipy.org/) and [Matplotlib](https://matplotlib.org/) to run the script in this directory. Once the script has finished working, you will see a window with a plot showing accuracies for each class.
+* ****
