@@ -44,5 +44,10 @@ files_otherplposition = [join(generic_path+'player_opposite/sketch/',f) for f in
 
 Please feel free to open issues if you have problems about running the scripts. I'll try to get back as quickly as possible.
 
+## See Also
+To understand the architecture of `deep_cnn`,`deep_rnn`, please visit: [https://arxiv.org/abs/1603.03827](https://arxiv.org/abs/1603.03827). I used the ones shown in *Figure 1* (for feed-forward layers I used the leftmost one in *Figure 2*).
+
+To see the architecture of `deep_charbased`, please visit: [https://pdfs.semanticscholar.org/b0ac/a3e7877c3c20958b0fae5cbf2dd602104859.pdf](https://pdfs.semanticscholar.org/b0ac/a3e7877c3c20958b0fae5cbf2dd602104859.pdf).
+
 ## Credits
 Ozan Can Altıok - [Koç University Intelligent User Interfaces Laboratory](http://iui.ku.edu.tr) - oaltiok15 at ku dot edu dot tr
