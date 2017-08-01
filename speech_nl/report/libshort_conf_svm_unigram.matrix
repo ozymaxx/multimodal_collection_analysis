@@ -1,0 +1,13 @@
+              freekick  bicycle  attacker  defense  pass  tackle  corner  goalkeeper  shoot  throw  reject  heading
+freekick            41        0         0        0     0       0       0           0      0      0      26        0
+bicycle              0       17         0        0     0       0       0           0      0      0       3        0
+attacker             0        0         8        0     0       0       0           0      0      0      16        0
+defense              0        0         0       79     0       0       0           0      0      0      27        0
+pass                 2        0         0        0   325       0       0           0      3      0     129        0
+tackle               0        0         0        0     4     250       0           0      2      0     114        0
+corner               0        0         0        0     0       0      42           0      0      0       6        0
+goalkeeper           0        0         0        0     0       0       0          58      0      0      33        0
+shoot                0        1         0        0     5       1       0           2    411      0     135        0
+throw                0        0         0        0     0       0       0           0      0     41       5        0
+reject              19        7         0       24   104      75      12          16    155     11    8581        5
+heading              0        0         0        0     0       0       0           0      1      0       2       29
